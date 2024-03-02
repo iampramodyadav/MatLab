@@ -1,6 +1,8 @@
 
 ![](CovidPlot.png)
+
 https://github.com/iampramodyadav/MATLAB/assets/72774410/8c949399-b2a0-41cc-8f8f-97a48a8e46fb
+
 ## Back end code
 ```MATLAB
 	properties (Access = private)
