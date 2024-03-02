@@ -2,8 +2,8 @@
 MATLAB-basic codes and concepts
 
 
-#Project-1
-- **Goal**: Create a MATLAB program to process and visualize COVID-19 data.
+## Project-1
+- **Goal**: Create a MATLAB application to process and visualize COVID-19 data.
 - **Data:** Load global case/death data by country/state from JHU's Coronavirus Resource Center.
 - **Processing:** Convert data into objects for countries and states (hierarchical structure).
 
@@ -18,6 +18,10 @@ MATLAB-basic codes and concepts
 - Moving average selection (1-15 days).
 - Plot type selection (cases, deaths, both).
 - Data type selection (cumulative, daily).
+
+
+
+https://github.com/iampramodyadav/MATLAB/assets/72774410/8c949399-b2a0-41cc-8f8f-97a48a8e46fb
 
 
 
