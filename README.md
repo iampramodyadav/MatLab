@@ -2,7 +2,7 @@
 MATLAB-basic codes and concepts
 
 
-## Project-1
+## [Project-1](https://github.com/iampramodyadav/MATLAB/project)
 - **Goal**: Create a MATLAB application to process and visualize COVID-19 data.
 - **Data:** Load global case/death data by country/state from JHU's Coronavirus Resource Center.
 - **Processing:** Convert data into objects for countries and states (hierarchical structure).
